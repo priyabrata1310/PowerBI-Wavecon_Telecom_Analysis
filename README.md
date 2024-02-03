@@ -52,6 +52,12 @@
 
 ## Data Model:
 
+![Alt Text](https://github.com/priyabrata1310/PowerBI-Wavecon_Telecom_Analysis/blob/main/Data_Model.png)
+
+## Market Share:
+
+![Alt Text]()
+
 
 
 
