@@ -56,7 +56,41 @@
 
 ## Market Share:
 
-![Alt Text]()
+![Alt Text](https://github.com/priyabrata1310/PowerBI-Wavecon_Telecom_Analysis/blob/main/Market_Share.png)
+
+## KPIs:
+
+![Alt Text](https://github.com/priyabrata1310/PowerBI-Wavecon_Telecom_Analysis/blob/main/KPIs.png)
+
+## Plans:
+
+![Alt Text](https://github.com/priyabrata1310/PowerBI-Wavecon_Telecom_Analysis/blob/main/Plans.png)
+
+## Insights:
+
+**1.** Revenue declined by 0.6% after the 5G launch which impacted the cities like Delhi, Chennai, and Ahmedabad.
+
+**2.** The top performing cities after the 5G launch in terms of revenue change% are Lucknow, Gurgaon, and Patna.
+
+**3.** Raipur stands at top with highest ARPU change% i.e., 22.25% after the implementation of 5G.
+
+**4.** Pune & Lucknow stands at top in terms of TAU growth % even after the TUsU change% is highest in these cities.
+
+**5.** Even though Wavecon Telecom holds its market position but it lost its market share by 2%.
+
+**6.** P1 is the top performing plan after the 5G launch.
+
+## Recommendations:
+
+**1.** 3G/4G services must be discontinued after the 5G launch.
+
+**2.** Proper feedback must be obtained from the unsubscribed users to identify the reason behind it.
+
+**3.** A survey must be carried out in the Tier 2 cities to identify the reason behind increase in unsubscribed users.
+
+**4.** Stay informed with the market trends through competitive analysis and attract new users through new offerings in the existing services.
+
+**5.** Provide promotional offers to the users in the new market which has the potential to grow in the upcoming time.
 
 
 
