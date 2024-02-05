@@ -37,6 +37,8 @@
   **15.** Pune
 
 - Live Dashboard: [click here](https://app.powerbi.com/view?r=eyJrIjoiYjc5YTkyYmQtYjllOC00YWVhLTkwN2UtY2Q3NDg4NmQ0MWI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+  
+- Video Presentation: [Click Here](https://www.linkedin.com/feed/update/urn:li:activity:7159908462603186176/)
 
 ## Problem Statement:
 
